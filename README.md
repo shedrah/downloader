@@ -1,1 +1,1 @@
-Simple script in Java to download pdf files from known URL.
+Simple script in Java to download files from known URL.
